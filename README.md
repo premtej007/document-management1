@@ -1,6 +1,8 @@
 # document-management1
 project link:
 https://drive.google.com/drive/folders/1Ws6JhRZAScoBBHaHErQxBfZfctq1r4p7?usp=sharing
+
+
 🗂️ Document Management Portal
 A full-stack web application for uploading, managing, and querying documents using AI.
 
