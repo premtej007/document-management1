@@ -23,7 +23,7 @@ A full-stack web application for uploading, managing, and querying documents usi
 
 | Login Page                                                                                                                           | Upload Document                                                                                                                      | Ask Questions                                                                                                                         |
 |--------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| ![Login](https://drive.google.com/uc?export=view&id=1JtMYaM8XF37Lnutmr-jegksV-zsoj_g7)                                               | ![Upload](https://drive.google.com/uc?export=view&id=1BpRN1ShVUMgbfoH2IvFt4H7GMEA3xqW9)                                               | ![Chatbot](https://drive.google.com/uc?export=view&id=1cQJziDZzrFGISVXu78LAKVY901dquj5b)                                             |
+| ![Login](https://drive.google.com/uc?export=view&id=1JtMYaM8XF37Lnutmr-jegksV-zsoj_g7)                                               | ![Upload](https://drive.google.com/uc?export=view&id=1BpRN1ShVUMgbfoH2IvFt4H7GMEA3xqW9)                                               | ![Chatbot](https://drive.google.com/file/d/10VRQm0-hD9SjcFyDPC3j6udK-X9MOlO0)                                             |
 
 
 🛠️ Technologies Used
