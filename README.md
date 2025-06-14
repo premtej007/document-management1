@@ -19,10 +19,12 @@ A full-stack web application for uploading, managing, and querying documents usi
 
 🌐 Frontend with React.js
 
-📸 Screenshots
-| Login Page                      | Upload Document                   | Ask Questions                       |
-| ------------------------------- | --------------------------------- | ----------------------------------- |
-| ![Login](https://drive.google.com/file/d/1JtMYaM8XF37Lnutmr-jegksV-zsoj_g7/view?usp=sharing) | ![Upload](https://drive.google.com/file/d/1BpRN1ShVUMgbfoH2IvFt4H7GMEA3xqW9/view?usp=drive_link) | ![Chatbot](https://drive.google.com/file/d/1cQJziDZzrFGISVXu78LAKVY901dquj5b/view?usp=sharing) |
+## Screenshots
+
+| Login Page                                                                                                                           | Upload Document                                                                                                                      | Ask Questions                                                                                                                         |
+|--------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| ![Login](https://drive.google.com/uc?export=view&id=1JtMYaM8XF37Lnutmr-jegksV-zsoj_g7)                                               | ![Upload](https://drive.google.com/uc?export=view&id=1BpRN1ShVUMgbfoH2IvFt4H7GMEA3xqW9)                                               | ![Chatbot](https://drive.google.com/uc?export=view&id=1cQJziDZzrFGISVXu78LAKVY901dquj5b)                                             |
+
 
 🛠️ Technologies Used
 Frontend:
