@@ -18,7 +18,7 @@ A full-stack web application for uploading, managing, and querying documents usi
 📸 Screenshots
 | Login Page                      | Upload Document                   | Ask Questions                       |
 | ------------------------------- | --------------------------------- | ----------------------------------- |
-| ![Login](screenshots/login.png) | ![Upload](screenshots/upload.png) | ![Chatbot](screenshots/chatbot.png) |
+| ![Login](https://drive.google.com/file/d/1JtMYaM8XF37Lnutmr-jegksV-zsoj_g7/view?usp=sharing) | ![Upload](https://drive.google.com/file/d/1BpRN1ShVUMgbfoH2IvFt4H7GMEA3xqW9/view?usp=drive_link) | ![Chatbot](https://drive.google.com/file/d/1cQJziDZzrFGISVXu78LAKVY901dquj5b/view?usp=sharing) |
 
 🛠️ Technologies Used
 Frontend:
